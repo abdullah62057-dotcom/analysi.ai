@@ -1,0 +1,6 @@
+{
+  "name": "Chatbot Engagement & Analytics Studio",
+  "description": "AI Chatbot with downloadable interaction datasets, deep user engagement metric analysis, and automated Gemini-powered performance reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
